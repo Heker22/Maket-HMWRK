@@ -1,0 +1,23 @@
+:root{
+--background-color:#fff;
+--color-hover:#03A9F4;
+--span-color:#B4AD9E;
+--text-color:#626262;
+}
+body{
+background-color: var(--background-color);
+color: #626262;
+margin: 0 auto;
+box-sizing: border-box;
+}
+.container{
+width: 906px;
+margin: 0 auto;
+}
+ul{
+list-style: none;
+margin: 0;
+padding: 0;
+
+
+}
