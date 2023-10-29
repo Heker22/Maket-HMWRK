@@ -39,7 +39,20 @@ margin-bottom: 130px;
 font-size: 14px;
 width: 400px;
 }
-.hover
+.header-list:hover{
+color:var(--color-hover);
+}
+.header-list{
+line-height: normal;
+width: 400px;
+}
+.btn{
+    width: 165px;
+    height: 60px;
+    font-size: 14px;
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
 
 
 
