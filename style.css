@@ -39,7 +39,7 @@ margin-bottom: 130px;
 font-size: 14px;
 width: 400px;
 }
-.header-list:hover{
+.header-item:hover{
 color:var(--color-hover);
 }
 .header-list{
